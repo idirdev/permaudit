@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/permaudit",
+  "version": "1.0.0",
+  "description": "Audit file and directory permissions for security issues",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/permaudit.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "permaudit": "bin/cli.js"
+  }
+}
