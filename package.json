@@ -18,5 +18,9 @@
   },
   "bin": {
     "permaudit": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/permaudit",
+  "bugs": {
+    "url": "https://github.com/idirdev/permaudit/issues"
   }
 }
